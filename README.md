@@ -1,2 +1,2 @@
 # aws-eks-logging-to-opensearch
-Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bits
+Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bit
